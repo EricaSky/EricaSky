@@ -7,11 +7,12 @@ I am currently looking into expanding my programming skills set by getting into 
 |<img src="https://skillicons.dev/icons?i=cpp,cs,rust&theme=dark">|<img src="https://skillicons.dev/icons?i=unity,godot,blender,androidstudio,git&theme=dark">|
 
 # Metaverse Projects
-[![Metaverse Demos](https://img.youtube.com/vi/6aF23VtXKeQ/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=6aF23VtXKeQ))
+[![Metaverse Demos](https://img.youtube.com/vi/6aF23VtXKeQ/0.jpg)](https://www.youtube.com/watch?v=6aF23VtXKeQ)
 
 During my time at PwC I worked on a large range of demos that served as proof of concepts. Each demo was developed over a single working day.
 
 Most notably the Cinema demo and the cabin crew training demos were liked by Real Cinema and Emirates airlines. These demos were later developed into real world applications.
+[Video](https://www.youtube.com/watch?v=6aF23VtXKeQ)
 
 
 # Publish Apps
