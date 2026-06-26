@@ -13,7 +13,7 @@
   
   <div>
     <h3>🔥Passionate Languages🔥</h3>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,java,py&theme=dark">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,rust&theme=dark">
   </div>
   
   <div>
@@ -38,19 +38,9 @@ Welcome to Coding Corner — a collection of bite-sized projects I’ve been wor
 
 <br clear="left"/>
 
-# Current Projects - Caffeinara
-Taking what I learnt from my Coffee Bean demo project I have now started working on a small indie game centered around Lofi and coffee brewing.
 
-### Current Concept Art:
-<div>
-  <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/Caffinara%20Player.png" />
-  <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/355f964d419995534c11085da955e946cf496ec4/Assets/Coffee%20Machine.png" />
-  <img align="left" width="200" src="https://github.com/cm66Work/cm66Work/blob/355f964d419995534c11085da955e946cf496ec4/Assets/Printer%20Mouse.png" />
-</div>
 
-<br clear="left"/>
-
-## Other Projects🎮
+## Publish Apps
 
 ## Paddle Clash!
 <a href="https://www.youtube.com/watch?v=r-vbkmg5Lcc" text-align: center>
