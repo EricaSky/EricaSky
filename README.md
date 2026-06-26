@@ -1,10 +1,13 @@
 # ☕ Hi, I'm Erica 👋
 <img align="right" width="30%" height="30%" src="https://github.com/cm66Work/cm66Work/blob/868db8741fc922775cac34c0f9dd5460fba71238/Assets/Profile1.png" />
+
 I am currently looking into expanding my programming skills set by getting into and understanding game engine architecture, ECS, physics, and data-oriented design. I enjoy solving complex problems and building software that's fast, simple, and fun to work on.
 
 | Languages | Tools |
 | --- | --- |
 |<img src="https://skillicons.dev/icons?i=cpp,cs,rust&theme=dark">|<img src="https://skillicons.dev/icons?i=unity,godot,blender,androidstudio,git&theme=dark">|
+
+<br clear="left"/>
 
 # Metaverse Projects
 [![Metaverse Demos](https://img.youtube.com/vi/6aF23VtXKeQ/0.jpg)](https://www.youtube.com/watch?v=6aF23VtXKeQ)
@@ -14,6 +17,7 @@ During my time at PwC I worked on a large range of demos that served as proof of
 Most notably the Cinema demo and the cabin crew training demos were liked by Real Cinema and Emirates airlines. These demos were later developed into real world applications.
 [Video](https://www.youtube.com/watch?v=6aF23VtXKeQ)
 
+<br clear="left"/>
 
 # Publish Apps
 Here are some of the published apps that I have worked on over the years.
@@ -37,8 +41,9 @@ The project was created as a learning experience for me, as I have never publish
 <img align="right" src="https://github.com/EricaSky/EricaSky/blob/613311aa8aaf33dcc83d1c421966f4be50ab2577/Assets/CoffeeBean%20demo.png" />
 </a>
 
-Coffee Bean is a small tech demo where you play as a Barista running a coffee shop, whose job it is to take orders and make coffee for customers!
-The game was inspired by my time working in a coffee shop after Uni [Video](https://www.youtube.com/watch?v=mR3-94EL7vM).
+Coffee Bean is a small tech demo where you play as a Barista running a coffee shop, whose job it is to take orders and make coffee for customers! The game was inspired by my time working in a coffee shop after Uni [Video](https://www.youtube.com/watch?v=mR3-94EL7vM).
+
+<br clear="left"/>
 
 # Coding Corner
 Welcome to my coding corner. This repo is a place for me to have fun and destress whilst learning and exiting skills.
@@ -49,6 +54,8 @@ Welcome to my coding corner. This repo is a place for me to have fun and destres
 
 One of my most enjoyable experiments was the recreation of Star Citizen's mining mechanic, during which I had to learn how to reverse engineer a system without having access to the games codebase [Video](https://www.youtube.com/watch?v=bU9T6L2q9PY).
 
+<br clear="left"/>
+<br clear="left"/>
 
 ## Other Projects
 <p>
