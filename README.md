@@ -1,5 +1,5 @@
 # ☕ Hi, I'm Erica 👋
-<img align="right" width="30%" height="30%" src="https://github.com/cm66Work/cm66Work/blob/868db8741fc922775cac34c0f9dd5460fba71238/Assets/Profile1.png" />
+<img align="right" width="30%" height="30%" src="https://github.com/EricaSky/EricaSky/blob/868db8741fc922775cac34c0f9dd5460fba71238/Assets/Profile1.png" />
 
 I am currently looking into expanding my programming skills set by getting into and understanding game engine architecture, ECS, physics, and data-oriented design. I enjoy solving complex problems and building software that's fast, simple, and fun to work on.
 
